@@ -1,0 +1,10 @@
+#anotaciones
+#instituciones financieras extranjeras e internacionales.
+
+No 					Integer
+Razon Social				String
+Pais					String
+Datos Inscripcion			String
+Vigencia				Date
+Datos ultima act.			String
+Estado Actualizado			String
