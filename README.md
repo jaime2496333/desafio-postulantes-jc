@@ -15,3 +15,22 @@ El JSON de respuesta puede venir en el formato que estimes conveniente.
   - Script para el caso particular
 - Lenguaje: El que más te guste
 - Plazo de Entrega: Indefinido, iremos entrevistando a los que van terminando primero.
+
+## Descripción
+
+- Proyecto generado con spring boot.
+- Selenium para obtener información.
+- ChromeDriver.
+
+## Ide Proyecto
+
+![image](https://raw.githubusercontent.com/jaime2496333/desafio-postulantes-jc/main/intellij.png)
+
+## Obtener información completa
+
+![image](https://raw.githubusercontent.com/jaime2496333/desafio-postulantes-jc/main/response_all.png)
+
+## Obtener información filtrada por no
+
+![image](https://raw.githubusercontent.com/jaime2496333/desafio-postulantes-jc/main/response_no.png)
+
